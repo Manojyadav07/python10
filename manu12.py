@@ -1,3 +1,4 @@
-N=int(input())
 k=int(input())
-print(pow(N,k))
+N=int(input())
+print (k**N)
+
